@@ -1,0 +1,10 @@
+{
+  "name": "Bot Besfren",
+  "description": "Your loyal online best friend AI",
+  "version": "1.0.0",
+  "personality_file": "agent/personality.md",
+  "system_prompt": "agent/system_prompt.md",
+  "memory_rules": "agent/memory_rules.md",
+  "conversation_starters": "agent/conversation_starters.md",
+  "examples": "agent/examples.md"
+}
