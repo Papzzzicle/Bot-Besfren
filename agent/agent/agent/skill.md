@@ -79,5 +79,5 @@ Provide emotional reassurance when user feels sad or lonely
 
 ## How Hub Invokes This Agent
 
-When `POST /api/call` is made, Hub forwards to this agent's endpoint: 
+When `POST /api/call` is made, Hub forwards to this agent's endpoint:
 
